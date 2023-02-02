@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 正在全职开发前端
+- 🌱 正在学习 Golang
+- ⚡ Fun fact: 可以听一整天指弹音乐，偶尔也会练习
+- 👯 I'm looking for `ant-design` component developers. [This project](https://github.com/boyuai/antd-country-phone-input) needs you!
+- 💬 欢迎交流
+  - [openscrm/msg-server](https://github.com/openscrm/msg-server): 我基于 [OpenSCRM](https://github.com/openscrm) 做过新的实现，欢迎对企业微信生态感兴趣的朋友来交流。
+  - [JudgeServer](https://github.com/helsonxiao/JudgeServer): 由于在编程教育行业做过几年全栈开发，对 [青岛大学 OJ](https://github.com/QingdaoU/OnlineJudge) 的系统设计相当熟悉，也提交过一些修复性质的代码。此项目属于 Golang 练手项目，初步计划完全兼容原版并增加一些功能，也有上线计划。欢迎感兴趣的老师和同学来交流。
+  - [fscrawler](https://github.com/dadoonet/fscrawler): I added FTP support to this brilliant project and I'm still watching it. Let me know if you have any problems with it. Thanks for [David Pilato](http://github.com/dadoonet)'s help to me!
+- 📫 联系方式: helsonxiao@gmail.com
