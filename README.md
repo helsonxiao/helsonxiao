@@ -15,11 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 正在全职开发前端
+🔭 正在 猫耳FM 搞前端
 
-🌱 正在学习 Golang
-
-🎵 可以听一整天指弹音乐，偶尔也会练习
+🌱 最近在读：《深入浅出 RxJS》、《项目管理知识体系指南》、《Levi's 501XX 牛仔裤的诞生》
 
 👯 I'm looking for `ant-design` component developers. [This project](https://github.com/boyuai/antd-country-phone-input) needs you!
 
