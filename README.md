@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 正在 猫耳FM 搞前端
 
-🌱 最近在读：
+🌱 最近在读
   - 《The Story of Mini》：MINI 汽车的发展史
   - 《Levi's 501XX 牛仔裤的诞生》：Levi's 品牌以及牛仔裤的发展史
   - 《告别失控》：内含很多有趣的软件开发管理案例
