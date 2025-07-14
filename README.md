@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 🌱 最近在读
   - 《The Story of Mini》：MINI 汽车的发展史
-  - 《Levi's 501XX 牛仔裤的诞生》：Levi's 品牌以及牛仔裤的发展史
+  - 《Levi's 501XX 牛仔裤的诞生》、《洋风和魂》：Levi's 品牌以及牛仔裤的发展史、美式服装是如何在日本兴起的
+    
     顺带一提，我的 MINI CLUBMAN 改装内饰后融入了牛仔铆钉的元素~
   - 《告别失控》、《人月神话》：研究如何交付
 
